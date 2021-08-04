@@ -17,8 +17,8 @@ If you want to change any part of the bot, just head to the dashboard.
 And if you have any questions/ideas, you can join our support server and our amazing staff will be sure to take care of you!
 
 
-   ![](https://user-images.githubusercontent.com/70479774/127640080-94c5987d-8036-4415-8770-6c1b0b12c85d.png)
-   ![](https://github.com/yasar-arafath/ShutupBot---A-dicord-bot-for-censoring-words/blob/main/depositphotos_59016233-stock-illustration-bubble-with-text-shut-up.jpg)
+   ![](https://drive.google.com/file/d/1zjcM3j6JcBU6Ipw0MkcI_LLvsI0g-Syc/view?usp=drivesdk)
+   ![](https://drive.google.com/file/d/1zgkjQvpUwtLkozQm7DBG7hOgGMzapxGO/view?usp=drivesdk)
 
 ## Links
 
