@@ -24,4 +24,4 @@ And if you have any questions/ideas, you can join our support server and our ama
 
 *   [Shutup Bot Discord Lounge](https://discord.gg/ESkFkby8)
 *   [Github](https://github.com/yasar-arafath/ShutupBot---A-dicord-bot-for-censoring-words)
-*   [Invite Shutup Bot to your server](https://discord.com/api/oauth2/authorize?client_id=871597317143293953&permissions=191126514752&scope=bot)
+*   [Invite ShutupBot to your server](https://discord.com/api/oauth2/authorize?client_id=871597317143293953&permissions=191126514752&scope=bot)
